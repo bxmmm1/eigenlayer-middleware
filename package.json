@@ -1,5 +1,6 @@
 {
   "name": "eigenlayer-middleware",
+  "version": "1.0.0",
   "devDependencies": {
     "husky": "^8.0.3",
     "@commitlint/cli": "^18.2.0",
